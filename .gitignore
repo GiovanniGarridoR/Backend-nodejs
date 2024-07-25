@@ -1,0 +1,40 @@
+# Archivos de configuración
+/.env
+
+# Directorios generados por Node.js
+/node_modules
+
+# Archivos generados por IDEs o editores
+.vscode/
+.idea/
+
+# Archivos de registro y salida de error
+logs/
+*.log
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos de prueba generados
+coverage/
+
+# Archivos de compilación
+/dist/
+/build/
+
+# Archivos de dependencia de package-lock.json
+package-lock.json
+
+# Archivos de dependencia de yarn.lock
+yarn.lock
+
+# Archivos de caché
+.cache/
+
+# Archivos de configuración personalizados
+config/config.json
+
+# Otros archivos específicos de tu aplicación
+# Ejemplo: configuración de bases de datos locales
+configuración/database.js
